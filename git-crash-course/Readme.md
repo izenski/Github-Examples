@@ -187,7 +187,7 @@ git status
 
 The gitconfig file is what stores your global configurations for git such as email, name, editor and more.
 
-Showing the contnets of our .gitconfig file
+Showing the contents of our .gitconfig file
 ```
 git config --list
 ```
